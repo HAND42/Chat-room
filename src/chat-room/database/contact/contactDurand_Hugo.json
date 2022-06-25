@@ -1,0 +1,30 @@
+[
+    {
+        "contact_id": "Alba_Jaime",
+        "nom": "Alba",
+        "prenom": "Jaime",
+        "img": "./database/profile-picture/new-user.jpg",
+        "info": "not registred yet"
+    },
+    {
+        "contact_id": "Appadoo_Apoorva",
+        "nom": "Appadoo",
+        "prenom": "Apoorva",
+        "img": "./database/profile-picture/new-user.jpg",
+        "info": "not registred yet"
+    },
+    {
+        "contact_id": "Anjou_Raphael",
+        "nom": "Anjou",
+        "prenom": "Raphael",
+        "img": "./database/profile-picture/avatar30.png",
+        "info": "user registred"
+    },
+    {
+        "contact_id": "Abadia_Tony",
+        "nom": "Abadia",
+        "prenom": "Tony",
+        "img": "./database/profile-picture/avatar24.png",
+        "info": "user registred"
+    }
+]

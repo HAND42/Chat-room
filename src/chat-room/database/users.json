@@ -1,0 +1,27 @@
+[
+    {
+        "user_id": "Durand_Hugo",
+        "nom": "Durand",
+        "prenom": "Hugo",
+        "img": "./database/profile-picture/avatar19.png",
+        "channel": [
+            "Lespotos"
+        ]
+    },
+    {
+        "user_id": "Abadia_Tony",
+        "nom": "Abadia",
+        "prenom": "Tony",
+        "img": "./database/profile-picture/avatar24.png",
+        "channel": []
+    },
+    {
+        "user_id": "Anjou_Raphael",
+        "nom": "Anjou",
+        "prenom": "Raphael",
+        "img": "./database/profile-picture/avatar30.png",
+        "channel": [
+            "Lespotos"
+        ]
+    }
+]
